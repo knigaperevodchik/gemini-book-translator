@@ -11,7 +11,6 @@
 
 ## 💰 Поддержать проект [RU]
 
-[![Boosty](https://img.shields.io/badge/Boosty-ПОДДЕРЖАТЬ-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
 [![TON](https://img.shields.io/badge/TON-USDT-0088cc?style=for-the-badge)](https://ton.org)
 [![TRC20](https://img.shields.io/badge/TRC-USDT-26A17B?style=for-the-badge)]()
 
@@ -27,7 +26,6 @@
 
 ## 💰 Support the Project [EN]
 
-[![Boosty](https://img.shields.io/badge/Boosty-DONATE-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
 [![TON](https://img.shields.io/badge/TON-USDT-0088cc?style=for-the-badge)](https://ton.org)
 [![TRC20](https://img.shields.io/badge/TRC-USDT-26A17B?style=for-the-badge)]()
 
@@ -43,15 +41,13 @@ If this project has saved your time or helped you, feel free to support its deve
 
 ## 💰 支持此项目 [ZH]
 
-[![Boosty](https://img.shields.io/badge/Boosty-赞助-f15f2c?style=for-the-badge)](https://boosty.to/knigaperevodchik)
-[![TON](https://img.shields.io/badge/TON-USDT-0088cc?style=for-the-badge)](https://ton.org)
+https://img.shields.io/badge/TON-USDT-0088cc?style=for-the-badge
 [![TRC20](https://img.shields.io/badge/TRC-USDT-26A17B?style=for-the-badge)]()
 
 如果这个项目对您有所帮助，欢迎赞助以支持项目的持续 white-hat 维护与更新：
 
 | 平台 / 网络 | 链接 / 钱包地址 |
 | :--- | :--- |
-| **Boosty** (法币/银行卡) | [https://boosty.to/knigaperevodchik](https://boosty.to/knigaperevodchik) |
 | **TON** (USDT) | `UQBWKwf2mgakNi4Ls2I6NNs1okcDyCxivdxxc22ypsMV4590` |
 | **TRC20** (USDT) | `TDdok5FgB6fJSXZrPzxnn7hMk4qREUZPJe` |
 
